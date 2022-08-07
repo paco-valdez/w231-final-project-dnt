@@ -1,4 +1,4 @@
-# Measuring Do Not Track (DNT) signals effectiveness.
+# Measuring Do Not Track (DNT) signals effectiveness - Python Script.
 
 There are multiple tools used to test web applications; most of them emulate the signals sent by browsers and try to capture the behavior of the websites when responding to scripted actions. Selenium is somewhat different than most of these tools. It uses real browsers to make the requests and connects to the backend services of the browsers to monitor the behavior of a website given a set of actions.
 
